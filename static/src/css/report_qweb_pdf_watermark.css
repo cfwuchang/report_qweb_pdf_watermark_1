@@ -1,0 +1,5 @@
+Image {
+    /* background: transparent !important; */
+    z-index: 99 !important;
+    position: relative;
+}
